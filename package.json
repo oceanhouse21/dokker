@@ -1,0 +1,25 @@
+{
+  "name": "dokker",
+  "version": "0.0.1",
+  "description": "dokker is a Javascript documentation tool embracing JSDOC and docca",
+  "main": "dokker.js",
+  "scripts": {
+    "test": "node specs.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oceanhouse21/dokker.git"
+  },
+  "keywords": [
+    "JSDOC",
+    "docca",
+    "JS",
+    "documentation"
+  ],
+  "author": "Georg Schlenkhoff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oceanhouse21/dokker/issues"
+  },
+  "homepage": "https://github.com/oceanhouse21/dokker#readme"
+}
