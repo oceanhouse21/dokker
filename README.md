@@ -12,7 +12,7 @@ Dokker.js creates professional Javascript code documentations.
  * Create or [HTML](http://dokkerjs.com/) or [markdown](https://github.com/oceanhouse21/dokker/tree/master/docs#dokkerjs-api-documentation) documentation from [JSDOC](http://usejsdoc.org/) tags
  * Support for [literate programming](https://en.wikipedia.org/?title=Literate_programming) documentation
  * Live edit source code and watch changes
- * Include link to your Github repositry
+ * Include link to your Github repository
  * Customize your own templates with [ejs](http://www.embeddedjs.com/) or use default style
  * Create feature description from [mocha test suite](http://mochajs.org/)
  * Automagically include your README.md into the documentation
